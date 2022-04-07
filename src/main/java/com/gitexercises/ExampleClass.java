@@ -4,4 +4,7 @@ public class ExampleClass {
     public String string;
     public int number = 9;
     public int number2 = 9;
+    public int number3 = 9;
+    public int number4 = 9;
+    public int number5 = 9;
 }
